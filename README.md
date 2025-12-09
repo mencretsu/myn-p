@@ -1,19 +1,4 @@
-# MYN Scout — Full Submission Package
 
-Below is the **complete package** you can submit directly to Levi.
-It includes:
-
-* README (GitHub-ready)
-* Project description
-* Features list
-* Architecture
-* Demo script
-* Full code skeleton (frontend, backend, bot, worker)
-* Instructions for deployment
-
-Use this as your repo's root `README.md`.
-
----
 
 # 📌 MYN Scout — Lightweight Explorer + Telegram Assistant
 
